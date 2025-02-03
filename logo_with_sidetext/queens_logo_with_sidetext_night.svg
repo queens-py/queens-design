@@ -14,7 +14,7 @@
    viewBox="0 0 560 90"
    version="1.1"
    id="svg8"
-   sodipodi:docname="queens_logo_with_side_text_night.svg"
+   sodipodi:docname="queens_logo_with_sidetext_night.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    inkscape:export-filename="/home/rei/workspace/queens-design/logo_with_side_text/queens_logo_with_side_text_night.png"
    inkscape:export-xdpi="600"
@@ -230,8 +230,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="1340.7568"
-     inkscape:cy="-47.690261"
+     inkscape:cx="968.01051"
+     inkscape:cy="-55.771481"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -248,7 +248,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -318,17 +318,34 @@
            transform="matrix(-1,0,0,1,413.40606,-137.58333)" />
       </g>
     </g>
-    <text
-       xml:space="preserve"
+    <g
+       aria-label="QUEENS"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000001;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
-       x="192.79744"
-       y="285.10236"
-       id="text1228"><tspan
-         sodipodi:role="line"
-         id="tspan1226"
-         x="192.79744"
-         y="285.10236"
+       id="text1228">
+      <path
+         d="m 227.54984,226.70799 q -9.47401,0 -15.07229,7.06244 -5.55522,7.06245 -5.55522,19.24947 0,12.14397 5.55522,19.20641 5.59828,7.06245 15.07229,7.06245 9.47401,0 14.98616,-7.06245 5.55522,-7.06244 5.55522,-19.20641 0,-12.18702 -5.55522,-19.24947 -5.51215,-7.06244 -14.98616,-7.06244 z m 12.18702,57.23165 11.45495,12.53153 h -10.50754 l -9.51708,-10.29222 q -1.4211,0.0861 -2.19625,0.12919 -0.73208,0.0431 -1.4211,0.0431 -13.56506,0 -21.7041,-9.04337 -8.09598,-9.08644 -8.09598,-24.28793 0,-15.24454 8.09598,-24.28792 8.13904,-9.08644 21.7041,-9.08644 13.522,0 21.61797,9.08644 8.09598,9.04338 8.09598,24.28792 0,11.19656 -4.52169,19.16335 -4.47862,7.96678 -13.00524,11.75639 z"
          style="font-size:88.19444275px;letter-spacing:0.79374999px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
-         dx="0">QUEENS</tspan></text>
+         id="path843" />
+      <path
+         d="m 270.67519,220.80826 h 8.74193 v 39.05877 q 0,10.33529 3.74655,14.90004 3.74654,4.52169 12.14396,4.52169 8.35435,0 12.10089,-4.52169 3.74655,-4.56475 3.74655,-14.90004 v -39.05877 h 8.74193 v 40.13536 q 0,12.5746 -6.24424,18.99109 -6.20117,6.41649 -18.34513,6.41649 -12.18703,0 -18.43126,-6.41649 -6.20118,-6.41649 -6.20118,-18.99109 z"
+         style="font-size:88.19444275px;letter-spacing:0.79374999px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="path845" />
+      <path
+         d="m 337.01188,220.80826 h 40.65213 v 7.32083 h -31.95326 v 19.03415 h 30.61828 v 7.32083 h -30.61828 v 23.29746 h 32.7284 v 7.32083 h -41.42727 z"
+         style="font-size:88.19444275px;letter-spacing:0.79374999px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="path847" />
+      <path
+         d="m 393.53005,220.80826 h 40.65213 v 7.32083 h -31.95326 v 19.03415 h 30.61829 v 7.32083 h -30.61829 v 23.29746 h 32.72841 v 7.32083 h -41.42728 z"
+         style="font-size:88.19444275px;letter-spacing:0.79374999px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="path849" />
+      <path
+         d="m 450.04823,220.80826 h 11.71332 l 28.50817,53.78655 v -53.78655 h 8.44048 v 64.2941 H 486.99688 L 458.48871,231.3158 v 53.78656 h -8.44048 z"
+         style="font-size:88.19444275px;letter-spacing:0.79374999px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="path851" />
+      <path
+         d="m 555.35755,222.91838 v 8.48355 q -4.95232,-2.3685 -9.34482,-3.53122 -4.3925,-1.16272 -8.48355,-1.16272 -7.10551,0 -10.98124,2.75607 -3.83267,2.75608 -3.83267,7.8376 0,4.2633 2.54076,6.45955 2.58382,2.15319 9.73239,3.48816 l 5.25378,1.07659 q 9.73239,1.85174 14.34021,6.54568 4.65087,4.65088 4.65087,12.48847 0,9.34483 -6.2873,14.16796 -6.24423,4.82313 -18.34513,4.82313 -4.56475,0 -9.73239,-1.03353 -5.12458,-1.03352 -10.63674,-3.05752 v -8.95725 q 5.29684,2.9714 10.37835,4.47863 5.08152,1.50723 9.99078,1.50723 7.45002,0 11.49801,-2.92833 4.04798,-2.92833 4.04798,-8.35436 0,-4.73701 -2.92833,-7.40696 -2.88526,-2.66994 -9.51707,-4.00492 l -5.29684,-1.03353 q -9.73239,-1.93786 -14.08182,-6.07198 -4.34944,-4.13411 -4.34944,-11.498 0,-8.52662 5.98586,-13.43588 6.02891,-4.90926 16.57952,-4.90926 4.52169,0 9.21563,0.81821 4.69394,0.81821 9.6032,2.45463 z"
+         style="font-size:88.19444275px;letter-spacing:0.79374999px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="path853" />
+    </g>
   </g>
 </svg>
