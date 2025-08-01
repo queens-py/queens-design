@@ -1,8 +1,8 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logo/queens_logo_night.svg">
-  <source media="(prefers-color-scheme: light)" srcset="logo/queens_logo_day.svg">
-  <img alt="QUEENS logo" src="logo/queens_logo_night.svg" width="300">
+  <source media="(prefers-color-scheme: dark)" srcset="logo/queens-text.svg">
+  <source media="(prefers-color-scheme: light)" srcset="logo/queens-text.svg">
+  <img alt="QUEENS logo" src="logo/queens-text.svg" width="300">
 </picture>
 </div>
 
@@ -14,7 +14,10 @@ Logos for the [QUEENS project](https://github.com/queens-py/queens)
 </div>
 
 # Colors
-The blue in the logo has the hex code `#5cbbfeff` or `rgba(92, 187, 254, 1)`.
+The blue in the logo has the hex code `#2C6572` or `rgba(44, 101, 114)`.
+
+# Font
+The font in the logo is Outfit Regular 400  (https://fonts.google.com/specimen/Outfit).
 
 # License
 
