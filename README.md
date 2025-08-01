@@ -1,8 +1,8 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logo/queens-text.svg">
-  <source media="(prefers-color-scheme: light)" srcset="logo/queens-text.svg">
-  <img alt="QUEENS logo" src="logo/queens-text.svg" width="300">
+  <source media="(prefers-color-scheme: dark)" srcset="logo/queens_text.svg">
+  <source media="(prefers-color-scheme: light)" srcset="logo/queens_text.svg">
+  <img alt="QUEENS logo" src="logo/queens_text.svg" width="300">
 </picture>
 </div>
 
