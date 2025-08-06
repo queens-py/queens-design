@@ -22,12 +22,8 @@ color_1 = 'white'
 color_2 = '#2C6572'
 linestyle = {"linewidth": 11, "solid_capstyle": "round"}
 
-plt.figure(figsize=[6, 6])
-plt.subplots_adjust(left=0., right=1, top=1, bottom=0.)
 fig = plt.figure(figsize=[6, 6], facecolor=color_2)
 plt.subplots_adjust(left=0., right=1, top=1, bottom=0.)
-ax = plt.gca()
-ax.set_facecolor(color_2)
 plt.plot(x, beta_1, color_1, **linestyle)
 plt.plot(x, np.flip(beta_1), color_1, **linestyle)
 plt.plot(x, beta_2, color_1, **linestyle)
