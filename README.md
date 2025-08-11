@@ -14,7 +14,7 @@ Logos for the [QUEENS project](https://github.com/queens-py/queens)
 </div>
 
 # Colors
-The blue in the logo has the hex code `#2C6572` or `rgba(44, 101, 114)`.
+The color in the logo has the hex code `#2C6572` or `rgba(44, 101, 114)`.
 
 # Font
 The font in the logo is Outfit Regular 400  (https://fonts.google.com/specimen/Outfit).
