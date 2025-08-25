@@ -16,6 +16,8 @@ Logos for the [QUEENS project](https://github.com/queens-py/queens)
 # Colors
 The color in the logo has the hex code `#2C6572` or `rgba(44, 101, 114)`.
 
+For a light accent color use the hex code `#A3CDD6` or `rgba(163, 205, 214)`.
+
 # Font
 The font in the logo is Outfit Regular 400  (https://fonts.google.com/specimen/Outfit).
 
