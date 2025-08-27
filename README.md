@@ -37,7 +37,7 @@ You may only use the QUEENS logos from this repository without modification to i
 This includes the following purposes:
 - Academic and research presentations, posters, and publications mentioning QUEENS.
 - Community events and workshops related to QUEENS.
-- Documentation, tutorials, educational material, blog posts or news articles describing or promoting QUEENS.
+- Documentation, tutorials, educational material, blog posts, or news articles describing or promoting QUEENS.
 - Adding the QUEENS logo on your webpage or social media to indicate your usage of the project or to promote QUEENS.
 For questions about logo usage or to request permission for other uses, please contact us (contact).
 
