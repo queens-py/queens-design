@@ -35,7 +35,7 @@ The QUEENS logo is protected by copyright © 2025 QUEENS. All rights are reserv
 
 You may only use the QUEENS logos from this repository without modification to identify, refer to or promote the QUEENS project.
 This includes the following purposes:
-- Academic and research presentations, posters and publications mentioning QUEENS.
+- Academic and research presentations, posters, and publications mentioning QUEENS.
 - Community events and workshops related to QUEENS.
 - Documentation, tutorials, educational material, blog posts or news articles describing or promoting QUEENS.
 - Adding the QUEENS logo on your webpage or social media to indicate your usage of the project or to promote QUEENS.
