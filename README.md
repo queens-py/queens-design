@@ -44,5 +44,5 @@ This includes the following purposes:
 - Community events and workshops related to QUEENS.
 - Documentation, tutorials, educational material, blog posts, or news articles describing or promoting QUEENS.
 - Adding the QUEENS logo on your webpage or social media to indicate your usage of the project or to promote QUEENS.
-For questions about logo usage or to request permission for other uses, please [contact us](https://www.queens-py.org/community/) (https://github.com/orgs/queens-py/teams/maintainers).
+For questions about logo usage or to request permission for other uses, please [contact us](https://www.queens-py.org/community/).
 
