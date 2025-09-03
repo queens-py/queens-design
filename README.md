@@ -17,7 +17,7 @@ Logos for the [QUEENS project](https://github.com/queens-py/queens)
 The official name of the project is QUEENS. Do not abbreviate or otherwise alter the name. Always spell it with uppercase letters.
 
 # Colors
-The color in the QUEENS logo has the hex code `#2C6572` or `rgba(44, 101, 114)`.
+The color in the QUEENS logos has the hex code `#2C6572` or `rgba(44, 101, 114)`.
 
 For a light accent color use the hex code `#A3CDD6` or `rgba(163, 205, 214)`.
 
@@ -25,8 +25,11 @@ For a light accent color use the hex code `#A3CDD6` or `rgba(163, 205, 214)`.
 The font in the QUEENS logo is Outfit Regular 400  (https://fonts.google.com/specimen/Outfit).
 
 # Logo Integrity Standards
-- Primary option: The primary option is the horizontal option (crown with the name QUEENS on the right side (add full file names) `queens_text` or `queens_text_night`). It is preferable to use the primary logo over the crown (`queens_crown`) alone.
-- Night version: To ensure sufficient contrast and legibility, we provide the primary option as a `night` version for dark backgrounds.
+- Primary option: The primary option is the horizontal option. It contains the crown with the name QUEENS on the right side.
+It is available [here](./logo/) as `queens_text.*` in pdf, png and svg format.
+It is preferable to use the primary logo over the QUEENS crown alone which is available as `queens_crown.*` [here](./crown/).
+- Night logo (for dark backgrounds): To ensure sufficient contrast and legibility, we provide the primary option as a night logo for dark backgrounds.
+It is available [here](./logo/) as `queens_text_night.*` in pdf, png and svg format.
 - Minimum size: Please do not display the QUEENS crown logo at less than 20px wide and the primary QUEENS logo at less than 50px wide to ensure legibility. 
 - Scale: Ensure the logo is always scaled proportionally. Do not display a distorted version of the logo.
 - Clear space: Make sure to keep an appropriate amount of clear space around the logo. Do not overlap the logo with text, images, or other elements.
@@ -41,5 +44,5 @@ This includes the following purposes:
 - Community events and workshops related to QUEENS.
 - Documentation, tutorials, educational material, blog posts, or news articles describing or promoting QUEENS.
 - Adding the QUEENS logo on your webpage or social media to indicate your usage of the project or to promote QUEENS.
-For questions about logo usage or to request permission for other uses, please contact us (contact).
+For questions about logo usage or to request permission for other uses, please [contact us](https://www.queens-py.org/community/) (https://github.com/orgs/queens-py/teams/maintainers).
 
