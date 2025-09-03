@@ -30,7 +30,7 @@ It is available [here](./logo/) as `queens_text.*` in pdf, png and svg format.
 It is preferable to use the primary logo over the QUEENS crown alone which is available as `queens_crown.*` [here](./crown/).
 - Night logo (for dark backgrounds): To ensure sufficient contrast and legibility, we provide the primary option as a night logo for dark backgrounds.
 It is available [here](./logo/) as `queens_text_night.*` in pdf, png and svg format.
-- Minimum size: Please do not display the QUEENS crown logo at less than 20px wide and the primary QUEENS logo at less than 50px wide to ensure legibility. 
+- Minimum size: Please do not display the QUEENS logos at less than 24 px (screen) or 7 mm (print) height to ensure legibility. 
 - Scale: Ensure the logo is always scaled proportionally. Do not display a distorted version of the logo.
 - Clear space: Make sure to keep an appropriate amount of clear space around the logo. Do not overlap the logo with text, images, or other elements.
 - Do not try to recreate or modify the QUEENS logo or parts of the logo.
