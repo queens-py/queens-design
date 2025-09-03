@@ -38,7 +38,7 @@ It is available [here](./logo/) as `queens_text_night.*` in pdf, png and svg for
 # Approved Use Cases of the QUEENS Logo
 The QUEENS logo is protected by copyright © 2025 QUEENS. All rights are reserved unless otherwise noted.
 
-You may only use the QUEENS logos from this repository without modification to identify, refer to, or promote the QUEENS project.
+The QUEENS logos may only be used as provided in this repository, without any modification. You may only use the QUEENS logos to identify, refer to, or promote the [QUEENS project](https://github.com/queens-py/queens).
 This includes the following purposes:
 - Academic and research presentations, posters, and publications mentioning QUEENS.
 - Community events and workshops related to QUEENS.
