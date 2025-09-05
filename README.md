@@ -22,7 +22,7 @@ The color in the QUEENS logos has the hex code `#2C6572` or `rgba(44, 101, 114)`
 For a light accent color use the hex code `#A3CDD6` or `rgba(163, 205, 214)`.
 
 # Font
-The font in the QUEENS logos is Outfit Regular 400  (https://fonts.google.com/specimen/Outfit).
+The font in the QUEENS logos is Outfit Regular 400  (https://fonts.google.com/specimen/Outfit) with a modified letter Q.
 
 # Logo Integrity Standards
 - Primary option: The primary option is the horizontal option which contains the crown with the name QUEENS on the right side.
