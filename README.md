@@ -14,7 +14,7 @@ Logos for the [QUEENS project](https://github.com/queens-py/queens)
 </div>
 
 # Name
-The official name of the project is QUEENS. Do not abbreviate or otherwise alter the name. Always spell it with uppercase letters.
+The official name of the project is QUEENS. Always spell it with uppercase letters.
 
 # Colors
 The color in the QUEENS logos has the hex code `#2C6572` or `rgba(44, 101, 114)`.
